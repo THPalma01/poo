@@ -1,0 +1,4 @@
+br\com\fatec\excecoes\NomeException.class
+br\com\fatec\excecoes\PrecoVendaException.class
+br\com\fatec\Produto.class
+br\com\fatec\Principal.class

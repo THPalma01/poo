@@ -1,0 +1,5 @@
+br\com\fatec\Excepctions\CompraInvalidaException.class
+br\com\fatec\Compra.class
+br\com\fatec\Cliente.class
+br\com\fatec\Cartao.class
+br\com\fatec\Principal.class

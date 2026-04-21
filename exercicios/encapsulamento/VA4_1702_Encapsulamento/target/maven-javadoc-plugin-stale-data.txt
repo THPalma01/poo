@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+23
+-sourcepath
+'D:/FATEC SCS/POO - 2025 - 1S/VA4_1702_Encapsulamento/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/FATEC SCS/POO - 2025 - 1S/VA4_1702_Encapsulamento/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'VA4_1702_Encapsulamento 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'VA4_1702_Encapsulamento 1.0-SNAPSHOT API'
+br.com.fatec
+D:\FATEC SCS\POO - 2025 - 1S\VA4_1702_Encapsulamento\src\main\java = 1739815680000
+D:\FATEC SCS\POO - 2025 - 1S\VA4_1702_Encapsulamento\target\reports\apidocs\element-list = 1739825582000
+D:\FATEC SCS\POO - 2025 - 1S\VA4_1702_Encapsulamento\target\reports\apidocs\overview-tree.html = 1739825582000
+D:\FATEC SCS\POO - 2025 - 1S\VA4_1702_Encapsulamento\target\reports\apidocs\allclasses-index.html = 1739825582000
+D:\FATEC SCS\POO - 2025 - 1S\VA4_1702_Encapsulamento\target\reports\apidocs\allpackages-index.html = 1739825582000
+D:\FATEC SCS\POO - 2025 - 1S\VA4_1702_Encapsulamento\target\reports\apidocs\module-search-index.js = 1739825582000
+D:\FATEC SCS\POO - 2025 - 1S\VA4_1702_Encapsulamento\target\reports\apidocs\package-search-index.js = 1739825582000
+D:\FATEC SCS\POO - 2025 - 1S\VA4_1702_Encapsulamento\target\reports\apidocs\type-search-index.js = 1739825582000
+D:\FATEC SCS\POO - 2025 - 1S\VA4_1702_Encapsulamento\target\reports\apidocs\member-search-index.js = 1739825582000
+D:\FATEC SCS\POO - 2025 - 1S\VA4_1702_Encapsulamento\target\reports\apidocs\tag-search-index.js = 1739825582000
+D:\FATEC SCS\POO - 2025 - 1S\VA4_1702_Encapsulamento\target\reports\apidocs\index-all.html = 1739825582000
+D:\FATEC SCS\POO - 2025 - 1S\VA4_1702_Encapsulamento\target\reports\apidocs\search.html = 1739825582000
+D:\FATEC SCS\POO - 2025 - 1S\VA4_1702_Encapsulamento\target\reports\apidocs\index.html = 1739825582000
+D:\FATEC SCS\POO - 2025 - 1S\VA4_1702_Encapsulamento\target\reports\apidocs\help-doc.html = 1739825582000
